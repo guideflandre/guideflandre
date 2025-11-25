@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I am Guillaume Deflandre, a PhD student at the UCLouvain, based at the de Duve institute in Brussels.
+I am Guillaume Deflandre, a PhD student at the [UCLouvain](https://www.uclouvain.be/fr), based at the 
+[de Duve institute](https://www.deduveinstitute.be/) in Brussels.
 I am part of Laurent Gatto's CBIO lab and my focus lies on optimisation of peptidoform identifications
 in single-cell proteomics. To do so, I apply my bioinformatic knowledge daily into a variety of projects.
 
